@@ -1,0 +1,8 @@
+# Ignore tout par défaut
+*
+
+# Sauf ce fichier (le .gitignore lui-même)
+!.gitignore
+
+# Sauf main.py
+!main.py
